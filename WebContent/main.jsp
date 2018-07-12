@@ -30,7 +30,7 @@
 
 
 		<h3 id="heading">Samastha Interiors</h3>
-		<h3>WELCOME </h3>
+		
 
 <div class="b" id="row1">
 <h1 class="h1"> A home is very beautiful, you will fall in love </h1>
