@@ -1,0 +1,418 @@
+.img1{
+    background-image:url(images/2.jpg);
+    background-size:cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    height: 105vh;
+    width:102%;
+    
+    
+}
+.title{
+  text-align: center;
+  padding:50px 0 20px;
+}
+.title h2{
+  margin:0;
+  padding:0;
+  color:#262626;
+  text-transform:  uppercase;
+  font-size:35px;
+  
+}
+
+.container .right
+{
+  float:right;
+  width:28%;
+  height:45rem;
+  background-color:rgba(0,0,0,0.5);
+  margin-top:-9rem;
+  margin-right:-5rem;
+}
+
+
+.tb{
+  margin-left: 9rem;
+  margin-top: 4rem;
+  
+ 
+}
+.right h3 {
+text-align: center;
+  font-family: 'Akronim';
+  font-size:250%;
+  color:white;
+}
+.frm .btn{
+  width: 15rem;
+  margin-left: 5rem;
+   font-family: "Comic Sans MS", cursive, sans-serif;
+  
+}
+.frm {
+  color: black;
+  padding-left: 2rem;
+}
+.frm input{
+   margin-top: 2rem;
+  color:black;
+
+}
+.frm input[type="text"]
+{
+  color: black;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+ 
+
+#head{
+  margin-right: 20rem;
+  color:black;
+  
+  font-family:'Allan';
+  margin-top:-0.01rem;
+    
+  
+}
+.frm input{
+  width: 205px;
+  margin-left: 2rem;
+  font-family: 'Allan';
+}
+.container1{
+  margin:0;
+  padding: 0;
+  width:100%;
+  height:360px;
+  background: aliceblue;
+  margin-top:2rem;
+  border: 3px;
+  border-block-end-color:white;
+}
+.title1{
+  text-align: center;
+}
+.circle{
+  margin-left: 6%;
+  margin-top: 5%;
+  
+}
+.circle1{
+  margin-left: 40%; 
+  margin-top: -17%;
+}
+.circle2{
+   margin-left: 73%; 
+  margin-top:-11%;
+  
+}
+.circle1 img{
+  width: 15%;
+}
+.circle2 img
+{
+  width:40%;
+    margin-top: -39%;
+  
+}
+.container1{
+  
+  font-family: "Comic Sans MS", cursive, sans-serif;;
+}
+.circle p{
+  font-size: 25px;
+  font-family:'Tangerine';
+   font-size: 28px;
+  text-shadow:1px 1px 1px;
+  
+}
+.circle1 p{
+  font-size: 25px;
+  font-family:'Tangerine';
+   font-size: 28px;
+  text-shadow:1px 1px 1px;
+}
+.circle2 p{
+  font-size: 25px;
+  font-family:'Tangerine';
+   font-size: 28px;
+  text-shadow:1px 1px 1px;
+  margin-top: -3rem;
+}
+.container2{
+  margin:0;
+  padding: 0;
+  width:100%;
+  height:360px;
+  background:white;
+  margin-top:3rem;
+  border: 3px;
+  border-block-end-color:white;
+ 
+}
+
+.circle12{
+  margin-left: 35rem;
+  margin-top: -31rem;
+  font-family:'Tangerine';
+   font-size: 28px;
+  text-shadow:1px 1px 1px;
+}
+.circle13{
+  margin-left: 72rem;
+  margin-top: -23rem;
+  font-family:'Tangerine';
+   font-size: 28px;
+  text-shadow:1px 1px 1px;
+}
+.circle14{
+  margin-left: 106rem;
+  margin-top: -23rem;
+  font-family:'Tangerine';
+   font-size: 28px;
+  text-shadow:1px 1px 1px;
+  
+}
+.title1 h2{
+  text-align: center;
+}
+.works h2{
+  text-align: center;
+  font-family: "Comic Sans MS", cursive, sans-serif;;
+  font-size:33px; 
+}
+.circle11{
+margin-left: 2rem;
+  font-family:'Tangerine';
+  font-size: 28px;
+  text-shadow:1px 1px 1px;
+}
+.container3{
+  margin:0;
+  padding: 0;
+  width:100%;
+  height:810px;
+  background:whitesmoke;
+  margin-top:4rem;
+  border: 3px;
+  
+ 
+}
+#head4{
+  text-align: center;
+  font-family: "Comic Sans MS", cursive, sans-serif;;
+}
+.pic1 img{
+  width: 45%;
+  margin-top:0rem;
+  margin-left: 3%;
+  }
+.pic2 img{
+  width: 45%;
+  margin-left: 51%;
+  margin-top: -41rem;
+  height: 396px
+}
+.container3 .innercontain{
+  width:45%;
+    height:250px;
+  background-color:lightcoral;
+ margin-left: 29%;
+  margin-top: 5rem;
+  
+  
+}
+.innercontain img{
+  border-radius: 50%;
+  width: 28%;
+  margin-left: 35%;
+  margin-top: -8%;
+}
+
+.innercontain p{
+  text-align: center;
+  font-family: 'BioRhyme Expanded';
+  color: white;
+  
+}
+.container4{
+  margin:0;
+  padding: 0;
+   width:100%;
+  height:650px;
+  background:whitesmoke;
+  margin-top:-2rem;
+  border: 3px;
+  
+}
+.container4 .innercontain{
+  width:45%;
+  
+  padding: 0;
+    height:250px;
+  background: #ff33a4 ;
+  margin-left: 27%;
+  margin-top: 2%;
+  
+}
+.container4 .innercontain img{
+  margin-left: 36%;
+  margin-bottom: -2%;
+}
+.container4 .innercontain p {
+  margin-bottom: rem;
+  margin-top: 1rem;
+}
+.container4 #pic3 img{
+  width: 45%;
+  height: 350px;
+margin-left: 3%;
+  margin-top: 0%;
+}
+.container4 #pic4 img{
+  width:45%;
+  height: 350px;
+margin-left: 51%;
+  margin-top: -27.6%;
+}
+.container5{
+  margin:0;
+  padding: 0;
+    width:100%;
+  height:650px;
+  background:grey;
+  margin-top:1rem;
+  border: 3px;
+}
+.container5 .title5{
+  text-align: center;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  
+}
+.container5 .w3-card-4{
+  width: 25%;
+ 
+ 
+  
+}
+.container5 .w3-container{
+  height: 150px;
+    color:white;
+}
+.container5 .w3-card-4 img{
+  height: 250px;
+  
+}
+.container5 .w3-card-5{
+  height: 250px;
+  width:25%;
+}
+.container5{
+   margin:0;
+  padding: 0;
+   width:100%;
+  height:1100px;
+  background:url(images/bk.jpg);
+  margin-top:3%;
+  border: 3px;
+  
+}
+.container5 .card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 25%;
+  
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  height: 350px;
+  margin-left: 6rem;
+  background:aliceblue;
+}
+.card .container51 h4{
+  text-align: center;
+ 
+}
+.card .container51 p{
+  text-align: center;
+  
+}
+
+
+.card1 {
+   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 25%;
+  
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  height: 350px;
+  margin-left: 38%;
+  margin-top: -26%;
+   background:aliceblue;
+}
+.card2{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 25%;
+  
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  height: 350px;
+  margin-left: 70%;
+  margin-top: -35rem;
+   background:aliceblue;
+}
+.card1 div{
+  text-align: center;
+}
+.card2 div{
+  text-align: center;
+}
+
+.container522{
+  
+  width:80%;
+  height:500px;
+  background:#bfbfbf;
+  margin-top:5rem;
+  margin-left:5rem;
+  
+}
+.container522 .left{
+  float:left;
+  width: 25%;
+}
+.container522 img{
+  width: 60%;
+  margin-left: 8rem;
+  margin-top: 0rem;
+  height: 450px;
+  
+}
+.container522 .left p{
+  margin-top: 1rem;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  
+}
+
+
+#navigation {
+  margin-top: 0%;
+ background: rgba(0,0,0,0.5);
+  
+  
+}
+#navigation .nav{
+  height:110px;
+  margin-bottom:2rem;
+}
+#navigation ul li{
+  margin-top:2%;
+  
+ 
+}
+#navigation li a{
+  color:white;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+#navigation ul li a:hover{
+  background-color:black;
+}

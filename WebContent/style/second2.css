@@ -1,0 +1,30 @@
+  #imge{
+    width:50%;
+   height:350px;
+    margin-left: 2rem;
+  } 
+  body{
+    background :url(images/kit10.jpg);
+     background-size:cover;
+      background-position:center;
+      background-repeat: no-repeat;
+      height: 100vh;
+      width:102%
+  }
+  .my{
+    background: rgba(0,0,0,0.6);
+    background-size:cover;
+    background-position:center;
+    height: 100vh;
+      width:102%;
+  }
+  table{
+    font-size:150%;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color:aliceblue;
+  }
+  
+  .my {
+    font-family:"Comic Sans MS", cursive, sans-serif;
+  color:white
+}     
